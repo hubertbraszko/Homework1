@@ -1,0 +1,1 @@
+A gitignore file specifies what files should be intentionally untracked by Git.
